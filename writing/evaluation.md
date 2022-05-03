@@ -267,7 +267,7 @@ from 1 to 5 and then furnish a justification for this ranking.
       industry-standard checks, as evidenced through the report of a passing
       build by [GitHub Actions](https://github.com/features/actions).
 
-## Technical Communication
+## Effective Communication
 
 TODO: Make sure that you assess your own achievement of the learning outcome at
 the lowest level of detail. For instance, you should start with "In the correct
