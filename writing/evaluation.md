@@ -1,5 +1,9 @@
 # Professional Evaluation
 
+TODO: Please make sure that you sign your name to this document in the
+subsection header that currently includes the phrase "Add Your Name
+Here".
+
 ## Add Your Name Here
 
 TODO: Please see the instructions in the README.md file for more details!
