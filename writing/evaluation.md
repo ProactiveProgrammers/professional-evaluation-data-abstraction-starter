@@ -2,7 +2,7 @@
 
 ## Add Your Name Here
 
-Please see the instructions in the README.md file for more details!
+TODO: Please see the instructions in the README.md file for more details!
 
 ## Learning Objectives
 
@@ -316,7 +316,7 @@ to take to improve your overall mastery of the technical knowledge and skills
 developed as a part of the Data Abstraction course. Your professional
 improvement plan should explain SMART (i.e., Specific, Measurable, Achievable,
 Relevant, and Time-Bounded) steps that you plan to take to improve your
-technical knowledge and skills during the remainder of the Fall 2021 semester.
+technical knowledge and skills during the remainder of the Spring 2022 semester.
 Please make sure that you clearly explain why your goals are SMART!
 
 ## Suggestions for Improving the Learning Objectives
