@@ -1,12 +1,12 @@
 # Professional Evaluation
 
-## Assigned: Tuesday, May 3, 2022
-## Due: Wednesday, May 11, 2022
-
 After cloning this repository to your computer, please take the following steps:
 
 - Follow the instructions inside of the `evaluation.md` file in the `writing`
   directory, making sure that you complete all aspects of this project.
+- To complete this assignment, you will need to refer to the listing of learning
+  objectives for this course that are available at the following web site:
+  https://proactiveprogrammers.com/data-abstraction/learning-objectives-data-abstraction/
 - At a high level, you need to assess yourself on a Likert scale with 1
   indicating the lowest level of competence and 5 indicating the greatest level
   of competence and the other values showing varying levels in between.
@@ -18,8 +18,8 @@ After cloning this repository to your computer, please take the following steps:
   your skills in the various learning outcomes for this course
 - Do not forget to provide a ranking for each of the detailed learning outcomes
   for the course! For every one of the lowest-level bullet points you should
-  either provide a ranking for yourself between 1 and 5 or the score of "N/A"
-  if you think that we have not yet covered that content in the course.
+    either provide a ranking for yourself between 1 and 5 or the score of "N/A"
+    if you think that we have not yet covered that content in the course.
 - If you are not sure whether we have covered a specific topic in the course,
   please refer to the course schedule that is available at:
   https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/
