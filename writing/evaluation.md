@@ -1,6 +1,6 @@
 # Professional Evaluation
 
-## Gregory M. Kapfhammer
+## Add Your Name Here
 
 Please see the instructions in the README.md file for more details!
 
