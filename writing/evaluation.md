@@ -1,12 +1,8 @@
 # Professional Evaluation
 
-TODO: Please make sure that you sign your name to this document in the
-subsection header that currently includes the phrase "Add Your Name
-Here".
+## Gregory M. Kapfhammer
 
-## Add Your Name Here
-
-TODO: Please see the instructions in the README.md file for more details!
+Please see the instructions in the README.md file for more details!
 
 ## Learning Objectives
 
@@ -26,17 +22,22 @@ proactive programmers.
 TODO: Make sure that you assess your own achievement of the learning outcome at
 the lowest level of detail. For instance, you should start with "Correctly
 implement a data structure" and then go to the end of the learning objective,
-press enter, and then rank yourself by adding a number from 1 to 5 and then
-furnish a justification for this ranking. For the listing of learning objectives
-that start with "Leveraging knowledge of existing data structures ..." you
-should rank yourself for each of the individual learning objectives starting
-with "Specify the input, output, and behavior ..." in the context of the
-containing prompt. Again, you should go to the end of the learning objective,
-press enter, and then rank yourself by adding a number and a justification.
+press enter, and then rank yourself by adding a number from 1 to 5 and a one
+sentence justification. For the listing of learning objectives that start with
+"Leveraging knowledge of existing data structures ..." you should rank yourself
+for each of the individual learning objectives starting with "Specify the
+input, output, and behavior ..." in the context of the containing prompt.
+Again, you should go to the end of the learning objective, press enter, and
+then rank yourself by adding a number and a one-sentence justification.
 
-- Correctly implement a data structure, such as a stack, list, or dictionary,
-  ensuring that it provides all of the functionality required by the structure's
-  specification.
+TODO: At the end of every major sub-section (e.g., "Algorithm Engineering" and
+"Algorithm Evaluation" and "Data Analysis" and "Python Programming") please
+provide a one-sentence summary of your strengths and weaknesses for the stated
+learning objectives.
+
+- Correctly implement and/or use a data structure, such as a stack, list, or
+  dictionary, ensuring that it provides all of the functionality required by
+  the structure's specification.
 - After importing an existing implementation of a data structure (e.g., a list
   or a dictionary), confirm that it provides the required functionality and
   integrate it into an existing program.
@@ -47,15 +48,15 @@ press enter, and then rank yourself by adding a number and a justification.
     - Specify the input, output, and behavior of functions for a new data
       structure.
     - Design, implement, and document all functions of a new data structure.
-    - Implement, execute, and maintain a test suite for a new data structure and
-      demonstrate that, for particular input, its behavior matches the
+    - Implement, execute, and maintain a test suite for a new data structure
+      and demonstrate that, for particular input, its behavior matches the
       specification.
     - Integrate the new data structure with the data structures used by an
       existing program.
-    - Document the trade-offs associated with the implementation of the new data
-      structure, comparing and contrasting it with existing alternatives and
-      justifying the need for the bespoke implementation instead of those that
-      are already available.
+    - Document the trade-offs associated with the implementation of the new
+      data structure, comparing and contrasting it with existing alternatives
+      and justifying the need for the bespoke implementation instead of those
+      that are already available.
 - Use the principles of object-oriented programming (i.e., encapsulation,
   inheritance, and polymorphism) to design, implement, document, and test
   classes that provide all of the features required by the specification of a
@@ -163,7 +164,7 @@ TODO: Make sure that you assess your own achievement of the learning outcome at
 the lowest level of detail. For instance, you should start with "Has function
 and variable names that adhere to an industry-standard ..." and then go to the
 end of the learning objective, press enter, and then rank yourself by adding a
-number from 1 to 5 and then furnish a justification for this ranking.
+number from 1 to 5 and then give a one-sentence justification for this ranking.
 
 - Write short Python functions of ten to twenty lines that have the following
   characteristics:
@@ -203,6 +204,17 @@ number from 1 to 5 and then furnish a justification for this ranking.
   - Uses the features of the Python programming language to create classes and
     instances of these classes that solve problems using the principles of
     object-oriented programming.
+  - Implement and run Python programs with the following environments and
+    tools:
+      - Python programs with dependencies, packaging, and tasks, managed by
+        [Poetry](https://python-poetry.org/).
+      - Python scripts without external dependencies that are run with the
+        interpreter.
+      - Jupyter notebooks run through either [Jupyter
+        Lite](https://proactiveprogrammers.com/live/) or [Google
+        Colab](https://githubtocolab.com/ProactiveProgrammers/www.proactiveprogrammers.com).
+    - Python code segments run in a read-eval-print loop (REPL) on [Jupyter
+        Lite](https://proactiveprogrammers.com/live/).
 
 ### Programming Tools
 
@@ -210,30 +222,26 @@ TODO: Make sure that you assess your own achievement of the learning outcome at
 the lowest level of detail. For instance, you should start with "Install,
 upgrade, and use ..." in the context of containing prompt. You should go to the
 end of the learning objective, press enter, and then rank yourself by adding a
-number from 1 to 5 and then furnish a justification for this ranking.
+number from 1 to 5 and then give a one-sentence justification for this ranking.
 
 - Use a Python programming environment to complete these tasks while
-  implementing a Python program consisting of between one and five hundred lines
-  of code:
+  implementing a Python program consisting of between one and five hundred
+  lines of code:
     - Install, upgrade, and use [Python](https://www.python.org/) 3.8, 3.9, or
       3.10 programming environment to create, run, and debug a Python program
       through a terminal window and/or a text editor.
     - Use [Poetry](https://python-poetry.org/) to install a Python program's
-      dependencies, create a virtual environment, and run it without error in an
-      isolated and self-contained configuration.
-    - Use [Docker](https://www.docker.com/) to run, in an isolated container and
-      without error, a Python program, an automated test suite, and automated
-      grading tools such as
-      [GatorGrader](https://github.com/GatorEducator/gatorgrader).
+      dependencies, create a virtual environment, and run it without error in
+      an isolated and self-contained configuration.
     - Use and create a test suite implemented with
-      [Pytest](https://docs.pytest.org/) to detect a failure in a Python program
-      and then effectively use tools like a text editor and a terminal window to
-      find and fix the fault, ultimately confirming that the Python program no
-      longer contains the fault and that the fix did not compromise other
-      functions in the program.
+      [Pytest](https://docs.pytest.org/) to detect a failure in a Python
+      program and then effectively use tools like a text editor and a terminal
+      window to find and fix the fault, ultimately confirming that the Python
+      program no longer contains the fault and that the fix did not compromise
+      other functions in the program.
     - Use a text editor like [VS Code](https://code.visualstudio.com/) to
       implement, test, debug, document, and manage the source code of a Python
-      program, leveraging plugins and extensions to enhance your workflow.
+      program, leveraging plugins for workflow enhancement.
 
 ### Version Control
 
@@ -241,7 +249,7 @@ TODO: Make sure that you assess your own achievement of the learning outcome at
 the lowest level of detail. For instance, you should start with "Clone a GitHub
 repository ..." in the context of containing prompt. You should go to the end of
 the learning objective, press enter, and then rank yourself by adding a number
-from 1 to 5 and then furnish a justification for this ranking.
+from 1 to 5 and then give a one-sentence justification for this ranking.
 
 - Use the [GitHub](https://github.com/) platform and the
   [Git](https://git-scm.com/) version control system in the following fashion:
@@ -251,6 +259,9 @@ from 1 to 5 and then furnish a justification for this ranking.
     - Write short and descriptive commit messages that explain the specific way
       in which a commit changes the source code and documentation in the GitHub
       repository.
+    - Use GitHub [pre-commit hooks](https://pre-commit.com/) to ensure that all
+      of the source code, technical writing, and commit messages adhere to the
+      industry standards for content and format.
     - Navigate reports produced by [GitHub
       Actions](https://github.com/features/actions) so as to determine which
       aspects of a GitHub repository do and do not adhere to a project's
@@ -271,17 +282,30 @@ from 1 to 5 and then furnish a justification for this ranking.
       industry-standard checks, as evidenced through the report of a passing
       build by [GitHub Actions](https://github.com/features/actions).
 
-## Effective Communication
+## Technical Communication
 
 TODO: Make sure that you assess your own achievement of the learning outcome at
 the lowest level of detail. For instance, you should start with "In the correct
 public channel ..." in the context of containing prompt. You should go to the
 end of the learning objective, press enter, and then rank yourself by adding a
-number from 1 to 5 and then furnish a justification for this ranking.
+number from 1 to 5 and then give a one-sentence justification for this ranking.
 
 A person learning data abstraction with the mindset of a proactive programmer
 will be able to demonstrate mastery of the following technology-mediated
 communication skills:
+
+- Follow a systematic process when using resources to implement Python programs:
+    - After detecting an error in a Python program through the use of tools like
+      [GatorGrader](https://github.com/GatorEducator/gatorgrader) or
+      [Pytest](https://docs.pytest.org/), develop a satisfactory understanding
+      of the problem's possible root cause and then search sites like [Stack
+      Overflow](https://stackoverflow.com/) for potential solutions.
+    - After evaluating suggested solutions to a programming problem that
+      originate from sites like [Stack Overflow](https://stackoverflow.com/),
+      develop a way to fix an error in a Python program.
+    - Independently develop solutions to Python programming problems even if the
+      specifical technical challenge that you face was not previously covered in
+      a course session or as part of your prior review of technical content.
 
 - Use [Discord](https://discord.com/) to effectively communicate about
   technology in the following fashion:
@@ -307,8 +331,9 @@ to take to improve your overall mastery of the technical knowledge and skills
 developed as a part of the Data Abstraction course. Your professional
 improvement plan should explain SMART (i.e., Specific, Measurable, Achievable,
 Relevant, and Time-Bounded) steps that you plan to take to improve your
-technical knowledge and skills during the remainder of the Spring 2022 semester.
-Please make sure that you clearly explain why your goals are SMART!
+technical knowledge and skills during the remainder of the Fall 2022 and
+throughout the Spring 2023 semesters. Please make sure that you clearly explain
+why your goals are "smart" according to the SMART standard!
 
 ## Suggestions for Improving the Learning Objectives
 
